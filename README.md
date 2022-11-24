@@ -5,13 +5,11 @@
   
   <br>
  <p align="center"> 
-  ##  Projet en cours de développement  ##
+  # Projet en cours de développement #
 </p>
 
- 
- 
-
 <br>
+<p align="center"> 
 Ce projet utilisera NodeJs, Vue3, VueX, Vite. 
  <br>
 
