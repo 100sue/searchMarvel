@@ -23,7 +23,7 @@ Ce projet utilisera NodeJs, Vue3, VueX, Vite.
  <br>
   
   <p align="center">
-  <img src="https://user-images.githubusercontent.com/90606431/203771989-076b1360-f08c-4324-bd71-100944f63d58.png)")/>
+  <img src="https://user-images.githubusercontent.com/90606431/203772500-3819ccce-3dd0-428e-beec-183782dd8cc2.png)"/>
   
  <br>
 
