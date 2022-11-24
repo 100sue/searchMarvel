@@ -25,6 +25,8 @@ Ce projet utilisera NodeJs, Vue3, VueX, Vite.
  <p align="center">
   <img src="https://user-images.githubusercontent.com/90606431/203773422-43d7d537-14d7-4341-9a4e-583b467cd7ec.png")/>
  <br>
+   
+   
  ## Installation des prérequis et lancement de l'application : ##
 
    ### Installation : ###
