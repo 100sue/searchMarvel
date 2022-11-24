@@ -1,0 +1,2 @@
+export const secret_key = "0540a13b3837d6bc21ee5c41d6c1f30a0babe5c3";
+export const public_key = "01e8e0554b32469e04f21c90ceb95566";
