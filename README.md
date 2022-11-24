@@ -18,8 +18,13 @@ Ce projet utilisera NodeJs, Vue3, VueX, Vite.
  
 - HTML5, CSS3, JavaScript, Node.js, Vue.js, Vite, CRUD Operations, OWASP & RGPD Standards.
 - Dependances : Axios, VueX, Vue-router. .
-- Utilisation de l'API Marvel.
-
+- Utilisation de l'API de Marvel.
+  lien : https://developer.marvel.com/
+ <br>
+  
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/90606431/203771989-076b1360-f08c-4324-bd71-100944f63d58.png)")/>
+  
  <br>
 
  ## Installation des prérequis et lancement de l'application : ##
