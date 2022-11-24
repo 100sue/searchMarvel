@@ -113,9 +113,10 @@ nodemon server
 
 <br>
 <p align="center">
-<img src= "https://user-images.githubusercontent.com/90606431/186601599-2fae53bf-75b9-40f6-97f8-2b231a8b0202.jpg"/>
+<img src= "https://user-images.githubusercontent.com/90606431/203773849-2470f226-f48c-4605-ba65-dbd5894d4ea1.jpg"/>
   
 <br>
+
 
 This template should help get you started developing with Vue 3 in Vite.
 
