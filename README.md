@@ -8,14 +8,10 @@
   ##  Projet en cours de développement  ##
 </p>
 
-  <br>
-  
- <p align="center">
+ 
  
 
-
- 
-
+<br>
 Ce projet utilisera NodeJs, Vue3, VueX, Vite. 
  <br>
 
@@ -23,7 +19,7 @@ Ce projet utilisera NodeJs, Vue3, VueX, Vite.
  ## Technologies utilisées : ##
  
 - HTML5, CSS3, JavaScript, Node.js, Vue.js, Vite, CRUD Operations, OWASP & RGPD Standards.
-- Dependances : Axios, Vue-router .
+- Dependances : Axios, VueX, Vue-router. .
 - Utilisation de l'API Marvel.
 
  <br>
@@ -47,7 +43,6 @@ Veuillez cloner ce dépôt : il vous fournira les dossiers nécessaires.
 Lancez l'application : ouvrez l'application en cliquant sur http://localhost:5173/
 
 Pour l'Utilisation de l'application : 
-![marvel-logo-personnages]()
 
 <br>
  <p align="center">
@@ -55,19 +50,14 @@ Pour l'Utilisation de l'application :
 
 <br>
 
-<br>
- <p align="center">
- <img src="https://user-images.githubusercontent.com/90606431/193896629-c2d8a3c7-ca1a-40d5-a493-b839c276bddb.png")/>
 
-<br>
-
- ### Project  : Scoreur App ###
+ ### Project  : Search Marvel ###
 
 
 ## Technologies, software, languages, frameworks, plugins used : ##
 
 - HTML5, CSS3, JavaScript, Node.js, Vue3, CRUD Operations, OWASP & RGPD Standards.
-- Dependances : axios,.
+- Dependances : Axios, VueX, Vue-router.
 
 <br>
 
@@ -118,16 +108,11 @@ Compiles and hot-reloads for development
 
 nodemon server
 
-
- <p align="center">
+<br>
+<p align="center">
 <img src= "https://user-images.githubusercontent.com/90606431/186601599-2fae53bf-75b9-40f6-97f8-2b231a8b0202.jpg"/>
-
-
-
-![2015](https://user-images.githubusercontent.com/90606431/203767996-0ff7d6aa-f9fe-4d29-b172-4ddc987c6963.jpg)
-
-
-
+  
+<br>
 
 This template should help get you started developing with Vue 3 in Vite.
 
