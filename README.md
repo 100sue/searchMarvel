@@ -21,12 +21,10 @@ Ce projet utilisera NodeJs, Vue3, VueX, Vite.
 - Utilisation de l'API de Marvel.
   lien : https://developer.marvel.com/
  <br>
-  
-  <p align="center">
-  <img src="https://user-images.githubusercontent.com/90606431/203772500-3819ccce-3dd0-428e-beec-183782dd8cc2.png)"/>
-  
- <br>
 
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/90606431/203773422-43d7d537-14d7-4341-9a4e-583b467cd7ec.png")/>
+ <br>
  ## Installation des prérequis et lancement de l'application : ##
 
    ### Installation : ###
