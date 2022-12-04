@@ -4,7 +4,8 @@
 
     <ul>
       <li v-for="character in characters">
-      {{character.name}}
+        <router-link :to="{name:'character', params: { id: character.id}}">{{character.name}}</router-link>
+      
       </li>
 
 
