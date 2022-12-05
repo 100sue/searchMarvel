@@ -16,7 +16,7 @@ Ce projet utilisera NodeJs, Vue3, VueX, Vite.
 
  ## Technologies utilisées : ##
  
-- HTML5, CSS3, JavaScript, Node.js, Vue.js, Vite, CRUD Operations, OWASP & RGPD Standards.
+- HTML5, CSS3, JavaScript, Node.js, Vue.js, Vite.
 - Dependances : Axios, VueX, Vue-router. .
 - Utilisation de l'API de Marvel.
   lien : https://developer.marvel.com/
